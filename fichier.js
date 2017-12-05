@@ -9,4 +9,5 @@ function foo()
         var quux = 2;
 		bar = true;
     }
+	return zip;
 }
